@@ -43,7 +43,12 @@ The dashboard enables exploratory analysis and high-level business insights into
 - KPI cards for high-level performance metrics  
 - Country-wise and city-wise comparative bar charts  
 - Donut charts for service availability breakdown  
-- Consistent dark-themed design for enhanced visual clarity  
+- Consistent dark-themed design for enhanced visual clarity
+
+## Dashboard Preview
+
+![Zomato Dashboard](zomato_dashboard_overview.png)
+
 
 ---
 
